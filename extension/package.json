@@ -1,0 +1,23 @@
+{
+	"name": "extension",
+	"version": "1.0.0",
+	"description": "",
+	"main": "dist/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "tsc"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JamesGrom/duck-export-credits.git"
+	},
+	"author": "James Grom",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/JamesGrom/duck-export-credits/issues"
+	},
+	"homepage": "https://github.com/JamesGrom/duck-export-credits#readme",
+	"devDependencies": {
+		"typescript": "^5.0.4"
+	}
+}
