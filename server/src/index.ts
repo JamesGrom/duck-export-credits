@@ -1,4 +1,3 @@
-// import * as bodyParser from "body-parser";
 import express from "express";
 const app = express();
 const port = 3005;
@@ -12,14 +11,9 @@ app.use((req, res, next): void => {
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-// app.get("/", (req, res) => {
-// 	console.log("bruv");
-// 	res.json(`home path`);
-// });
 app.post("/", (req, res) => {
 	console.log("event");
-	// console.log(req);
-	console.log(req.body);
+	console.log("event body: ", req.body);
 	res.json(`succeeded`);
 });
 app.listen(port, () => {
