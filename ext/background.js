@@ -1,16 +1,20 @@
 function sendRequestLog(details) {
-	if (details.url.includes("example.com")) {
+	if (details.url.includes("https://app.zoominfo.com/anura/userData/viewContacts")) {
+		// const requestId = details.requestId;
+		// console.log(`body: ${details.requestBody}`);
+
+		console.log(details);
 		const logEntry = `Request URL: ${details.url}\n`;
-		console.log(logEntry);
+		// console.log(logEntry);
 
 		// Send the log entry to the Node server
-		const serverUrl = "http://localhost:3000/"; // Replace with your server URL
+		const serverUrl = "http://localhost:3005/"; // Replace with your server URL
 		fetch(serverUrl, {
 			method: "POST",
 			headers: {
 				"Content-Type": "application/json",
 			},
-			body: JSON.stringify({ fuck: "you" }),
+			body: JSON.stringify(details),
 		})
 			.then((response) => {
 				if (response.ok) {
@@ -25,9 +29,7 @@ function sendRequestLog(details) {
 	}
 }
 
-chrome.webRequest.onBeforeRequest.addListener(sendRequestLog, { urls: ["<all_urls>"] }, [
-	"blocking",
-]);
+chrome.webRequest.onCompleted.addListener(sendRequestLog, { urls: ["<all_urls>"] });
 
 chrome.runtime.onStartup.addListener(function () {
 	chrome.webRequest.handlerBehaviorChanged();
@@ -66,3 +68,19 @@ chrome.runtime.onStartup.addListener(function () {
 // function errorHandler(error) {
 // 	console.error("Error:", error);
 // }
+chrome.runtime.onConnect.addListener((port) => {
+	if (port.name === "devtools-page") {
+		port.onMessage.addListener((message) => {
+			if (message.action === "enable") {
+				chrome.webRequest.onCompleted.addListener(
+					(details) => {
+						chrome.tabs.sendMessage(details.tabId, { body: details.responseBody });
+					},
+					{ urls: ["<all_urls>"], types: ["xmlhttprequest"] }
+				);
+			} else if (message.action === "disable") {
+				chrome.webRequest.onCompleted.removeListener();
+			}
+		});
+	}
+});

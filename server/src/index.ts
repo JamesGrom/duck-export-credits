@@ -1,7 +1,7 @@
 // import * as bodyParser from "body-parser";
 import express from "express";
 const app = express();
-const port = 3000;
+const port = 3005;
 app.use((req, res, next): void => {
 	res.setHeader("Access-Control-Allow-Origin", "*");
 	res.setHeader("Access-Control-Allow-Methods", "GET, POST, OPTIONS, PUT, PATCH, DELETE");
