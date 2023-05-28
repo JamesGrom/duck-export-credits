@@ -12,6 +12,7 @@ app.use((req, res, next): void => {
 app.use(bodyParser.json());
 
 app.get("/", (req, res) => {
+	console.log("bruv");
 	res.json(`home path`);
 });
 app.listen(port, () => {
