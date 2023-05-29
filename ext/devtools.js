@@ -10,7 +10,7 @@ chrome.devtools.panels.create(
 
 function sendRequestLog(path, body) {
 	// Send the log entry to the Node server
-	const serverUrl = `http://localhost:3005/${path}`; // Replace with your server URL
+	const serverUrl = `http://localhost:3005${path}`; // Replace with your server URL
 	return fetch(serverUrl, {
 		method: "POST",
 		headers: {
@@ -36,7 +36,13 @@ chrome.devtools.network.onRequestFinished.addListener(function (request) {
 	if (url.includes("https://app.zoominfo.com/anura/userData/viewContacts")) {
 		request.getContent(function (content, encoding) {
 			console.log("Response Body:", content);
-			sendRequestLog("", content);
+			sendRequestLog("/", content);
+		});
+	}
+	if (url.includes("https://www.linkedin.com/sales-api/salesApiProfiles/")) {
+		request.getContent(function (content, encoding) {
+			console.log("Response Body:", content);
+			sendRequestLog("/linkedin", content);
 		});
 	}
 });

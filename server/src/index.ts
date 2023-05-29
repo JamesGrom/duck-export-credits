@@ -25,6 +25,15 @@ app.post("/", (req, res) => {
 	fs.writeFileSync("../output.json", updatedData, "utf-8");
 	res.json(`succeeded`);
 });
+app.post("/linkedin", (req, res) => {
+	console.log("event body: ", req.body);
+	// const existingData = fs.readFileSync("../output.json", "utf-8");
+	// const jsonData = JSON.parse(existingData);
+	// jsonData.push(req.body.data);
+	// const updatedData = JSON.stringify(jsonData);
+	// fs.writeFileSync("../output.json", updatedData, "utf-8");
+	res.json(`succeeded`);
+});
 app.listen(port, () => {
 	console.log(`express server started listening on ${port}`);
 });
