@@ -1,6 +1,3 @@
-// The devtools.js file will hold the actual code creating your dev tools extensions.
-console.log("Duck-Export-Credits extension devtools.js loaded");
-
 // Mount the main panel
 chrome.devtools.panels.create(
 	"Duck Export Credits", // title
@@ -11,12 +8,35 @@ chrome.devtools.panels.create(
 	}
 );
 
+function sendRequestLog(path, body) {
+	// Send the log entry to the Node server
+	const serverUrl = `http://localhost:3005/${path}`; // Replace with your server URL
+	return fetch(serverUrl, {
+		method: "POST",
+		headers: {
+			"Content-Type": "application/json",
+		},
+		body,
+	})
+		.then((response) => {
+			if (response.ok) {
+				console.log("Log entry sent successfully");
+			} else {
+				console.error("Failed to send log entry:", response.status, response.statusText);
+			}
+		})
+		.catch((error) => {
+			console.error("Failed to send log entry:", error);
+		});
+}
+
 // Listen to network response events
 chrome.devtools.network.onRequestFinished.addListener(function (request) {
-	// Log the response body to the console
-	console.log("webRequestBody details from devtoolsjs triggered");
-
-	request.getContent(function (content, encoding) {
-		console.log("Response Body:", content);
-	});
+	const url = request.request.url;
+	if (url.includes("https://app.zoominfo.com/anura/userData/viewContacts")) {
+		request.getContent(function (content, encoding) {
+			console.log("Response Body:", content);
+			sendRequestLog("", content);
+		});
+	}
 });
