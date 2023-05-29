@@ -1,16 +1,10 @@
 {
 	"manifest_version": 2,
-	"name": "Request Logger",
+	"name": "Duck-Export-Credits",
 	"version": "1.0",
-	"devtools_page": "devtools.html",
-	"permissions": [
-		"devtools",
-		"webRequest",
-		"webRequestBlocking",
-		"<all_urls>",
-		"downloads",
-		"fileSystem"
-	],
+	"description": "Used to log http response bodies of all requests returned from specific urls",
+	"devtools_page": "DuckDevtools.html",
+	"permissions": ["webRequest", "webRequestBlocking", "http://*/*", "https://*/*"],
 	"background": {
 		"scripts": ["background.js"],
 		"persistent": true
