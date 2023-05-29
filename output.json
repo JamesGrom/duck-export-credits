@@ -1,0 +1,640 @@
+[
+	[
+		{
+			"companyID": 541348671,
+			"companyName": "ActiveFence",
+			"companyAddress": {
+				"Street": "6 Hamelacha",
+				"City": "Binyamina",
+				"State": "Haifa",
+				"Zip": "3057319",
+				"CountryCode": "Israel"
+			},
+			"companyRevenue": "$63 Million",
+			"companyRevenueRange": "$50 mil. - $100 mil.",
+			"companyEmployees": 300,
+			"companyEmployeeCountRange": "250 - 500",
+			"companyDomain": "www.activefence.com",
+			"website": "www.activefence.com",
+			"companyDescription": "Established with the vision of making the internet a safer place by eliminating harmful content, ActiveFence has created the complete Trust & Safety solution. Providing data, services, and software that support Trust & Safety teams, we allow platforms of any size to proactively handle any threat that reaches their door, no matter the type, language, or format. We’ve built the complete Trust & Safety tool stack, which allows Trust & Safety teams to orchestrate their complex operations while gaining complete visibility of unwanted on-platform activity and early warning of oncoming threats.",
+			"companyRevenueIn000s": 63016,
+			"doziIndustry": [
+				{
+					"name": "software.security",
+					"displayName": "Security Software",
+					"isPrimary": true,
+					"score": 100
+				},
+				{ "name": "software", "displayName": "Software", "isPrimary": true, "score": 100 },
+				{
+					"name": "software.eng",
+					"displayName": "Engineering Software",
+					"isPrimary": false,
+					"score": 50
+				},
+				{ "name": "software", "displayName": "Software", "isPrimary": true, "score": 50 }
+			],
+			"companyType": "PRIVATE",
+			"certified": false,
+			"topLevelIndustry": ["Software", "Software"],
+			"isMasked": false,
+			"subscribed": false,
+			"title": "Chief Executive Officer & Co-Founder",
+			"jobTitle": "Chief Executive Officer & Co-Founder",
+			"isPast": "False",
+			"personID": 9250502564,
+			"firstName": "Noam",
+			"lastName": "Schwartz",
+			"email": "noam@activefence.com",
+			"location": { "City": "New York City", "State": "New York", "CountryCode": "United States" },
+			"lastUpdatedDate": "2023-03-02",
+			"lastMentioned": "2023-03-02",
+			"confidenceScore": 74,
+			"name": "Noam Schwartz",
+			"score": 0,
+			"certifications": [
+				{
+					"certificationName": "Chief Executive Officer & Co-Founder",
+					"organizationName": "ActiveFence"
+				}
+			],
+			"isEU": false,
+			"creationDate": "2023-05-25",
+			"positionStartDate": "2017-12-31",
+			"buyingCommittee": false,
+			"hasOnlinePresence": true,
+			"personHashtags": ["TOTAL_EXPERIENCE_6_TO_7_YRS"]
+		}
+	],
+	[
+		{
+			"companyID": 541348671,
+			"companyName": "ActiveFence",
+			"companyAddress": {
+				"Street": "6 Hamelacha",
+				"City": "Binyamina",
+				"State": "Haifa",
+				"Zip": "3057319",
+				"CountryCode": "Israel"
+			},
+			"companyRevenue": "$63 Million",
+			"companyRevenueRange": "$50 mil. - $100 mil.",
+			"companyEmployees": 300,
+			"companyEmployeeCountRange": "250 - 500",
+			"companyDomain": "www.activefence.com",
+			"website": "www.activefence.com",
+			"companyDescription": "Established with the vision of making the internet a safer place by eliminating harmful content, ActiveFence has created the complete Trust & Safety solution. Providing data, services, and software that support Trust & Safety teams, we allow platforms of any size to proactively handle any threat that reaches their door, no matter the type, language, or format. We’ve built the complete Trust & Safety tool stack, which allows Trust & Safety teams to orchestrate their complex operations while gaining complete visibility of unwanted on-platform activity and early warning of oncoming threats.",
+			"companyRevenueIn000s": 63016,
+			"doziIndustry": [
+				{
+					"name": "software.security",
+					"displayName": "Security Software",
+					"isPrimary": true,
+					"score": 100
+				},
+				{ "name": "software", "displayName": "Software", "isPrimary": true, "score": 100 },
+				{
+					"name": "software.eng",
+					"displayName": "Engineering Software",
+					"isPrimary": false,
+					"score": 50
+				},
+				{ "name": "software", "displayName": "Software", "isPrimary": true, "score": 50 }
+			],
+			"companyType": "PRIVATE",
+			"certified": false,
+			"topLevelIndustry": ["Software", "Software"],
+			"isMasked": false,
+			"subscribed": false,
+			"title": "Co-Founder & Chief Technology Officer",
+			"jobTitle": "Co-Founder & Chief Technology Officer",
+			"isPast": "False",
+			"personID": 5344012689,
+			"profileImageURL": "https://www.activefence.com/wp-content/uploads/2023/03/iftach-orr.png",
+			"firstName": "Iftach",
+			"lastName": "Orr",
+			"email": "iorr@activefence.com",
+			"location": {
+				"Street": "6 Hamelacha",
+				"City": "Binyamina",
+				"State": "Haifa",
+				"CountryCode": "Israel"
+			},
+			"freeMails": ["iftach.orr@gmail.com", "shvetzlaot@gmail.com"],
+			"lastUpdatedDate": "2023-03-02",
+			"lastMentioned": "2023-03-02",
+			"confidenceScore": 93,
+			"noticeProvidedInfo": { "hasBeenNotified": true, "emailNoticeProvidedDate": "2021-09-23" },
+			"name": "Iftach Orr",
+			"score": 1,
+			"personalEmail": "i***@***.com",
+			"certifications": [
+				{
+					"certificationName": "Co-Founder & Chief Technology Officer",
+					"organizationName": "ActiveFence"
+				}
+			],
+			"isEU": false,
+			"creationDate": "2021-06-11",
+			"positionStartDate": "2017-12-01",
+			"buyingCommittee": false,
+			"hasOnlinePresence": true,
+			"personHashtags": [
+				"#High_turnover_management_level",
+				"#Flag_likely_to_listen",
+				"#spent_6_years_in_6.20",
+				"#category_Startup_Experience",
+				"TOTAL_EXPERIENCE_15_TO_19_YRS",
+				"#spent_6_years_in_0.6",
+				"#High_turnover_industry",
+				"#spent_4_years_in_6.15",
+				"#spent_3_years_in_6.13",
+				"#Worked_for_a_company_founded.2018",
+				"#spent_6_years_in_6.19"
+			]
+		}
+	],
+	[
+		{
+			"companyID": 541348671,
+			"companyName": "ActiveFence",
+			"companyAddress": {
+				"Street": "6 Hamelacha",
+				"City": "Binyamina",
+				"State": "Haifa",
+				"Zip": "3057319",
+				"CountryCode": "Israel"
+			},
+			"companyRevenue": "$63 Million",
+			"companyRevenueRange": "$50 mil. - $100 mil.",
+			"companyEmployees": 300,
+			"companyEmployeeCountRange": "250 - 500",
+			"companyDomain": "www.activefence.com",
+			"website": "www.activefence.com",
+			"companyDescription": "Established with the vision of making the internet a safer place by eliminating harmful content, ActiveFence has created the complete Trust & Safety solution. Providing data, services, and software that support Trust & Safety teams, we allow platforms of any size to proactively handle any threat that reaches their door, no matter the type, language, or format. We’ve built the complete Trust & Safety tool stack, which allows Trust & Safety teams to orchestrate their complex operations while gaining complete visibility of unwanted on-platform activity and early warning of oncoming threats.",
+			"companyRevenueIn000s": 63016,
+			"doziIndustry": [
+				{
+					"name": "software.security",
+					"displayName": "Security Software",
+					"isPrimary": true,
+					"score": 100
+				},
+				{ "name": "software", "displayName": "Software", "isPrimary": true, "score": 100 },
+				{
+					"name": "software.eng",
+					"displayName": "Engineering Software",
+					"isPrimary": false,
+					"score": 50
+				},
+				{ "name": "software", "displayName": "Software", "isPrimary": true, "score": 50 }
+			],
+			"companyType": "PRIVATE",
+			"certified": false,
+			"topLevelIndustry": ["Software", "Software"],
+			"isMasked": false,
+			"subscribed": false,
+			"title": "Director, DevOps",
+			"jobTitle": "Director, DevOps",
+			"isPast": "False",
+			"personID": -1627703317,
+			"profileImageURL": "https://storage.zoominfo.com/-1627703317",
+			"firstName": "Avi",
+			"lastName": "Juran",
+			"location": {
+				"Street": "6 Hamelacha",
+				"City": "Binyamina",
+				"State": "Haifa",
+				"CountryCode": "Israel"
+			},
+			"freeMails": ["avijuran@gmail.com"],
+			"mobilePhonesInfo": [{ "number": "+972 1-801-222-299", "count": 1, "score": 5 }],
+			"lastUpdatedDate": "2023-02-15",
+			"lastMentioned": "2023-02-15",
+			"confidenceScore": 89,
+			"noticeProvidedInfo": { "hasBeenNotified": true, "emailNoticeProvidedDate": "2021-10-15" },
+			"name": "Avi Juran",
+			"score": 1,
+			"mobilePhone": "+972 1-801-222-299",
+			"personalEmail": "a***@***.com",
+			"certifications": [
+				{ "certificationName": "Director, DevOps", "organizationName": "ActiveFence" }
+			],
+			"isEU": false,
+			"positionStartDate": "2022-08-31",
+			"buyingCommittee": false,
+			"hasOnlinePresence": true,
+			"personHashtags": [
+				"#spent_1_years_in_5.0",
+				"#category_Startup_Experience",
+				"TOTAL_EXPERIENCE_15_TO_19_YRS",
+				"#series_b",
+				"#Worked_for_a_series_B_company",
+				"#Worked_for_a_company_founded.2018",
+				"#spent_9_years_in_6.7"
+			]
+		}
+	],
+	[
+		{
+			"companyID": 541348671,
+			"companyName": "ActiveFence",
+			"companyAddress": {
+				"Street": "6 Hamelacha",
+				"City": "Binyamina",
+				"State": "Haifa",
+				"Zip": "3057319",
+				"CountryCode": "Israel"
+			},
+			"companyRevenue": "$63 Million",
+			"companyRevenueRange": "$50 mil. - $100 mil.",
+			"companyEmployees": 300,
+			"companyEmployeeCountRange": "250 - 500",
+			"companyDomain": "www.activefence.com",
+			"website": "www.activefence.com",
+			"companyDescription": "Established with the vision of making the internet a safer place by eliminating harmful content, ActiveFence has created the complete Trust & Safety solution. Providing data, services, and software that support Trust & Safety teams, we allow platforms of any size to proactively handle any threat that reaches their door, no matter the type, language, or format. We’ve built the complete Trust & Safety tool stack, which allows Trust & Safety teams to orchestrate their complex operations while gaining complete visibility of unwanted on-platform activity and early warning of oncoming threats.",
+			"companyRevenueIn000s": 63016,
+			"doziIndustry": [
+				{
+					"name": "software.security",
+					"displayName": "Security Software",
+					"isPrimary": true,
+					"score": 100
+				},
+				{ "name": "software", "displayName": "Software", "isPrimary": true, "score": 100 },
+				{
+					"name": "software.eng",
+					"displayName": "Engineering Software",
+					"isPrimary": false,
+					"score": 50
+				},
+				{ "name": "software", "displayName": "Software", "isPrimary": true, "score": 50 }
+			],
+			"companyType": "PRIVATE",
+			"certified": false,
+			"topLevelIndustry": ["Software", "Software"],
+			"isMasked": false,
+			"subscribed": false,
+			"title": "Vice President, Demand Generation",
+			"jobTitle": "Vice President, Demand Generation",
+			"isPast": "False",
+			"personID": 8261371261,
+			"firstName": "Ilya",
+			"lastName": "Glezer",
+			"phone": "+972 52-383-6912",
+			"location": {
+				"Street": "6 Hamelacha",
+				"City": "Binyamina",
+				"State": "Haifa",
+				"CountryCode": "Israel"
+			},
+			"lastUpdatedDate": "2022-09-22",
+			"lastMentioned": "2022-09-22",
+			"confidenceScore": 84,
+			"name": "Ilya Glezer",
+			"score": 0,
+			"certifications": [
+				{
+					"certificationName": "Vice President, Demand Generation",
+					"organizationName": "ActiveFence"
+				}
+			],
+			"isEU": false,
+			"creationDate": "2022-09-22",
+			"buyingCommittee": false,
+			"personHashtags": ["#spent_1_years_in_7.4", "TOTAL_EXPERIENCE_0_TO_1_YRS"]
+		}
+	],
+	[
+		{
+			"companyID": 19827699,
+			"companyName": "Badoo",
+			"companyAddress": {
+				"Street": "The Broadgate Tower 20 Primrose St Fl 3",
+				"City": "London",
+				"State": "Greater London",
+				"Zip": "EC2A 2RS",
+				"CountryCode": "United Kingdom"
+			},
+			"companyRevenue": "$20 Million",
+			"companyRevenueRange": "$10 mil. - $25 mil.",
+			"companyEmployees": 372,
+			"companyEmployeeCountRange": "250 - 500",
+			"companyDomain": "www.badoo.com",
+			"website": "www.badoo.com",
+			"companyDescription": "About Badoo: Badoo is the largest dating network in the world. With 318 million users across 190 countries and 250 employees worldwide, Badoo provides the best technology for people to meet, because happiness is better shared. More than 400,000 people sign up for a Badoo experience each day and over 350 million messages are sent and 10 million photos are added on the Badoo platform, with users spending an average of 1.8 hours daily on the Badoo experience, for a total of over 12 billion swipes per day. Badoo also operates a number of white label licenses or various international brands.",
+			"companyPhone": "+44 2070999939",
+			"companyRevenueIn000s": 19987,
+			"doziIndustry": [
+				{
+					"name": "telecom.internet",
+					"displayName": "Internet Service Providers, Website Hosting & Internet-related Services",
+					"isPrimary": true,
+					"score": 50
+				},
+				{ "name": "telecom", "displayName": "Telecommunications", "isPrimary": true, "score": 50 },
+				{
+					"name": "telecom.telephone",
+					"displayName": "Telephony & Wireless",
+					"isPrimary": false,
+					"score": 45
+				},
+				{ "name": "telecom", "displayName": "Telecommunications", "isPrimary": true, "score": 45 }
+			],
+			"companyType": "PRIVATE",
+			"certified": false,
+			"topLevelIndustry": ["Telecommunications", "Telecommunications"],
+			"isMasked": false,
+			"subscribed": false,
+			"title": "Release Engineering Team Head",
+			"jobTitle": "Release Engineering Team Head",
+			"isPast": "False",
+			"personID": 6752359603,
+			"firstName": "Aleksandr",
+			"lastName": "Izmailov",
+			"email": "izmailov.aleksandr@corp.badoo.com",
+			"location": { "City": "Moscow", "State": "Moscow", "CountryCode": "Russia" },
+			"lastUpdatedDate": "2022-10-03",
+			"lastMentioned": "2022-10-03",
+			"confidenceScore": 88,
+			"noticeProvidedInfo": { "hasBeenNotified": true, "emailNoticeProvidedDate": "2021-12-22" },
+			"name": "Aleksandr Izmailov",
+			"score": 0,
+			"certifications": [
+				{ "certificationName": "Release Engineering Team Head", "organizationName": "Badoo" }
+			],
+			"isEU": false,
+			"creationDate": "2021-12-22",
+			"positionStartDate": "2014-07-31",
+			"buyingCommittee": false,
+			"hasOnlinePresence": true,
+			"personHashtags": [
+				"#High_turnover_management_level",
+				"#Flag_likely_to_listen",
+				"TOTAL_EXPERIENCE_8_TO_9_YRS",
+				"#High_turnover_industry",
+				"#spent_9_years_in_6.19",
+				"#spent_3_years_in_6.21"
+			]
+		}
+	],
+	[
+		{
+			"companyID": 19827699,
+			"companyName": "Badoo",
+			"companyAddress": {
+				"Street": "The Broadgate Tower 20 Primrose St Fl 3",
+				"City": "London",
+				"State": "Greater London",
+				"Zip": "EC2A 2RS",
+				"CountryCode": "United Kingdom"
+			},
+			"companyRevenue": "$20 Million",
+			"companyRevenueRange": "$10 mil. - $25 mil.",
+			"companyEmployees": 372,
+			"companyEmployeeCountRange": "250 - 500",
+			"companyDomain": "www.badoo.com",
+			"website": "www.badoo.com",
+			"companyDescription": "About Badoo: Badoo is the largest dating network in the world. With 318 million users across 190 countries and 250 employees worldwide, Badoo provides the best technology for people to meet, because happiness is better shared. More than 400,000 people sign up for a Badoo experience each day and over 350 million messages are sent and 10 million photos are added on the Badoo platform, with users spending an average of 1.8 hours daily on the Badoo experience, for a total of over 12 billion swipes per day. Badoo also operates a number of white label licenses or various international brands.",
+			"companyPhone": "+44 2070999939",
+			"companyRevenueIn000s": 19987,
+			"doziIndustry": [
+				{
+					"name": "telecom.internet",
+					"displayName": "Internet Service Providers, Website Hosting & Internet-related Services",
+					"isPrimary": true,
+					"score": 50
+				},
+				{ "name": "telecom", "displayName": "Telecommunications", "isPrimary": true, "score": 50 },
+				{
+					"name": "telecom.telephone",
+					"displayName": "Telephony & Wireless",
+					"isPrimary": false,
+					"score": 45
+				},
+				{ "name": "telecom", "displayName": "Telecommunications", "isPrimary": true, "score": 45 }
+			],
+			"companyType": "PRIVATE",
+			"certified": false,
+			"topLevelIndustry": ["Telecommunications", "Telecommunications"],
+			"isMasked": false,
+			"subscribed": false,
+			"title": "Head Of ATeam",
+			"jobTitle": "Head Of ATeam",
+			"isPast": "False",
+			"personID": 6682287007,
+			"firstName": "Michael",
+			"lastName": "Kurmaev",
+			"email": "michael.kurmaev@corp.badoo.com",
+			"location": { "CountryCode": "Russia" },
+			"lastUpdatedDate": "2022-11-16",
+			"lastMentioned": "2022-11-16",
+			"confidenceScore": 89,
+			"name": "Michael Kurmaev",
+			"score": 0,
+			"certifications": [{ "certificationName": "Head Of ATeam", "organizationName": "Badoo" }],
+			"isEU": false,
+			"creationDate": "2023-05-26",
+			"positionStartDate": "2004-12-31",
+			"buyingCommittee": false,
+			"hasOnlinePresence": true,
+			"personHashtags": ["TOTAL_EXPERIENCE_15_TO_19_YRS"]
+		}
+	],
+	[
+		{
+			"companyID": 19827699,
+			"companyName": "Badoo",
+			"companyAddress": {
+				"Street": "The Broadgate Tower 20 Primrose St Fl 3",
+				"City": "London",
+				"State": "Greater London",
+				"Zip": "EC2A 2RS",
+				"CountryCode": "United Kingdom"
+			},
+			"companyRevenue": "$20 Million",
+			"companyRevenueRange": "$10 mil. - $25 mil.",
+			"companyEmployees": 372,
+			"companyEmployeeCountRange": "250 - 500",
+			"companyDomain": "www.badoo.com",
+			"website": "www.badoo.com",
+			"companyDescription": "About Badoo: Badoo is the largest dating network in the world. With 318 million users across 190 countries and 250 employees worldwide, Badoo provides the best technology for people to meet, because happiness is better shared. More than 400,000 people sign up for a Badoo experience each day and over 350 million messages are sent and 10 million photos are added on the Badoo platform, with users spending an average of 1.8 hours daily on the Badoo experience, for a total of over 12 billion swipes per day. Badoo also operates a number of white label licenses or various international brands.",
+			"companyPhone": "+44 2070999939",
+			"companyRevenueIn000s": 19987,
+			"doziIndustry": [
+				{
+					"name": "telecom.internet",
+					"displayName": "Internet Service Providers, Website Hosting & Internet-related Services",
+					"isPrimary": true,
+					"score": 50
+				},
+				{ "name": "telecom", "displayName": "Telecommunications", "isPrimary": true, "score": 50 },
+				{
+					"name": "telecom.telephone",
+					"displayName": "Telephony & Wireless",
+					"isPrimary": false,
+					"score": 45
+				},
+				{ "name": "telecom", "displayName": "Telecommunications", "isPrimary": true, "score": 45 }
+			],
+			"companyType": "PRIVATE",
+			"certified": false,
+			"topLevelIndustry": ["Telecommunications", "Telecommunications"],
+			"isMasked": false,
+			"subscribed": false,
+			"title": "Head of Backoffice Team",
+			"jobTitle": "Head of Backoffice Team",
+			"isPast": "False",
+			"personID": 1923687916,
+			"firstName": "Boris",
+			"lastName": "Chernetsov",
+			"email": "b.chernetsov@corp.badoo.com",
+			"location": { "City": "Moscow", "State": "Moscow", "CountryCode": "Russia" },
+			"mobilePhonesInfo": [
+				{
+					"number": "+7 495 980-03-23",
+					"count": 6,
+					"score": 10.3257593552316,
+					"latestDate": "11/17/2021 12:00 AM"
+				}
+			],
+			"lastUpdatedDate": "2023-02-15",
+			"lastMentioned": "2023-02-15",
+			"confidenceScore": 99,
+			"noticeProvidedInfo": { "hasBeenNotified": true, "emailNoticeProvidedDate": "2021-11-18" },
+			"name": "Boris Chernetsov",
+			"score": 0,
+			"mobilePhone": "+7 495 980-03-23",
+			"certifications": [
+				{ "certificationName": "Head of Backoffice Team", "organizationName": "Badoo" }
+			],
+			"isEU": false,
+			"positionStartDate": "2011-10-31",
+			"buyingCommittee": false,
+			"hasOnlinePresence": true,
+			"personHashtags": ["TOTAL_EXPERIENCE_15_TO_19_YRS"]
+		}
+	],
+	[
+		{
+			"companyID": 19827699,
+			"companyName": "Badoo",
+			"companyAddress": {
+				"Street": "The Broadgate Tower 20 Primrose St Fl 3",
+				"City": "London",
+				"State": "Greater London",
+				"Zip": "EC2A 2RS",
+				"CountryCode": "United Kingdom"
+			},
+			"companyRevenue": "$20 Million",
+			"companyRevenueRange": "$10 mil. - $25 mil.",
+			"companyEmployees": 372,
+			"companyEmployeeCountRange": "250 - 500",
+			"companyDomain": "www.badoo.com",
+			"website": "www.badoo.com",
+			"companyDescription": "About Badoo: Badoo is the largest dating network in the world. With 318 million users across 190 countries and 250 employees worldwide, Badoo provides the best technology for people to meet, because happiness is better shared. More than 400,000 people sign up for a Badoo experience each day and over 350 million messages are sent and 10 million photos are added on the Badoo platform, with users spending an average of 1.8 hours daily on the Badoo experience, for a total of over 12 billion swipes per day. Badoo also operates a number of white label licenses or various international brands.",
+			"companyPhone": "+44 2070999939",
+			"companyRevenueIn000s": 19987,
+			"doziIndustry": [
+				{
+					"name": "telecom.internet",
+					"displayName": "Internet Service Providers, Website Hosting & Internet-related Services",
+					"isPrimary": true,
+					"score": 50
+				},
+				{ "name": "telecom", "displayName": "Telecommunications", "isPrimary": true, "score": 50 },
+				{
+					"name": "telecom.telephone",
+					"displayName": "Telephony & Wireless",
+					"isPrimary": false,
+					"score": 45
+				},
+				{ "name": "telecom", "displayName": "Telecommunications", "isPrimary": true, "score": 45 }
+			],
+			"companyType": "PRIVATE",
+			"certified": false,
+			"topLevelIndustry": ["Telecommunications", "Telecommunications"],
+			"isMasked": false,
+			"subscribed": false,
+			"title": "Chief Executive Officer",
+			"jobTitle": "Chief Executive Officer",
+			"isPast": "False",
+			"personID": 9641548453,
+			"firstName": "Haydar",
+			"lastName": "Agan",
+			"location": { "CountryCode": "Turkey" },
+			"lastUpdatedDate": "2023-04-25",
+			"lastMentioned": "2023-04-25",
+			"confidenceScore": 50,
+			"name": "Haydar Agan",
+			"score": 0,
+			"certifications": [
+				{ "certificationName": "Chief Executive Officer", "organizationName": "Badoo" }
+			],
+			"isEU": false,
+			"creationDate": "2023-03-16",
+			"buyingCommittee": false,
+			"hasOnlinePresence": true
+		}
+	],
+	[
+		{
+			"companyID": 19827699,
+			"companyName": "Badoo",
+			"companyAddress": {
+				"Street": "The Broadgate Tower 20 Primrose St Fl 3",
+				"City": "London",
+				"State": "Greater London",
+				"Zip": "EC2A 2RS",
+				"CountryCode": "United Kingdom"
+			},
+			"companyRevenue": "$20 Million",
+			"companyRevenueRange": "$10 mil. - $25 mil.",
+			"companyEmployees": 372,
+			"companyEmployeeCountRange": "250 - 500",
+			"companyDomain": "www.badoo.com",
+			"website": "www.badoo.com",
+			"companyDescription": "About Badoo: Badoo is the largest dating network in the world. With 318 million users across 190 countries and 250 employees worldwide, Badoo provides the best technology for people to meet, because happiness is better shared. More than 400,000 people sign up for a Badoo experience each day and over 350 million messages are sent and 10 million photos are added on the Badoo platform, with users spending an average of 1.8 hours daily on the Badoo experience, for a total of over 12 billion swipes per day. Badoo also operates a number of white label licenses or various international brands.",
+			"companyPhone": "+44 2070999939",
+			"companyRevenueIn000s": 19987,
+			"doziIndustry": [
+				{
+					"name": "telecom.internet",
+					"displayName": "Internet Service Providers, Website Hosting & Internet-related Services",
+					"isPrimary": true,
+					"score": 50
+				},
+				{ "name": "telecom", "displayName": "Telecommunications", "isPrimary": true, "score": 50 },
+				{
+					"name": "telecom.telephone",
+					"displayName": "Telephony & Wireless",
+					"isPrimary": false,
+					"score": 45
+				},
+				{ "name": "telecom", "displayName": "Telecommunications", "isPrimary": true, "score": 45 }
+			],
+			"companyType": "PRIVATE",
+			"certified": false,
+			"topLevelIndustry": ["Telecommunications", "Telecommunications"],
+			"isMasked": false,
+			"subscribed": false,
+			"title": "President",
+			"jobTitle": "President",
+			"isPast": "False",
+			"personID": -1612518120,
+			"firstName": "Jhonatanfernandesrod",
+			"lastName": "Rodrigues",
+			"location": { "CountryCode": "Brazil" },
+			"lastUpdatedDate": "2023-04-25",
+			"lastMentioned": "2023-04-25",
+			"confidenceScore": 81,
+			"name": "Jhonatanfernandesrod Rodrigues",
+			"score": 0,
+			"certifications": [{ "certificationName": "President", "organizationName": "Badoo" }],
+			"isEU": false,
+			"positionStartDate": "1984-12-31",
+			"buyingCommittee": false,
+			"hasOnlinePresence": true
+		}
+	]
+]
