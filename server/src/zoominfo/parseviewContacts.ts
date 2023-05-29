@@ -73,6 +73,6 @@ type Person = {
 	personalEmail?: string;
 };
 
-const parseviewContacts = () => {
+const parseviewContacts = (person: Person) => {
 	//
 };
