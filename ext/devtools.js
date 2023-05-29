@@ -36,13 +36,7 @@ chrome.devtools.network.onRequestFinished.addListener(function (request) {
 	if (url.includes("https://app.zoominfo.com/anura/userData/viewContacts")) {
 		request.getContent(function (content, encoding) {
 			console.log("Response Body:", content);
-			sendRequestLog("/", content);
-		});
-	}
-	if (url.includes("https://www.linkedin.com/sales-api/salesApiProfiles/")) {
-		request.getContent(function (content, encoding) {
-			console.log("Response Body:", content);
-			sendRequestLog("/linkedin", content);
+			sendRequestLog("/zoominfo/viewContacts", content);
 		});
 	}
 });
