@@ -4,9 +4,5 @@
 	"version": "1.0",
 	"description": "Used to log http response bodies of all requests returned from specific urls",
 	"devtools_page": "DuckDevtools.html",
-	"permissions": ["webRequest", "webRequestBlocking", "http://*/*", "https://*/*"],
-	"background": {
-		"scripts": ["background.js"],
-		"persistent": true
-	}
+	"permissions": ["webRequest", "webRequestBlocking", "http://*/*", "https://*/*"]
 }
