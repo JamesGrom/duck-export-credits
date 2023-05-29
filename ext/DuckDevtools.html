@@ -1,3 +1,12 @@
+<!-- relevant docs = https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Extending_the_developer_tools -->
+<!-- The devtools page doesn't have any visible DOM, but can include JavaScript sources using <script> tags. The sources must be bundled with the extension itself. The sources get access to:
+The normal DOM APIs accessible through the global window object
+The same WebExtension APIs as in Content Scripts
+The devtools APIs:
+devtools.inspectedWindow
+devtools.network
+devtools.panels
+Note that the devtools page does not get access to any other WebExtension APIs, and the background page doesn't get access to the devtools APIs. Instead, the devtools page and the background page must communicate using the runtime messaging APIs. Here's an example: -->
 <!DOCTYPE html>
 <html lang="en">
 	<head>
